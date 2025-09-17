@@ -17,5 +17,6 @@ Website ini dibuat sebagai bagian dari tugas quiz 1 dengan tema "personal websit
 
 # Preview
 <img width="1366" height="580" alt="image" src="https://github.com/user-attachments/assets/951d1b31-777e-48f1-b761-d01840b404ed" />
-<img width="1366" height="603" alt="image" src="https://github.com/user-attachments/assets/ef96d269-1306-490a-a81d-c18f5d52313e" />
+<img width="1366" height="597" alt="image" src="https://github.com/user-attachments/assets/bd524d5f-3d59-43c0-b559-b9c235635aae" />
+
 
